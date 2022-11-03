@@ -1,2 +1,2 @@
 # diamond-gatherer
-Nu am reusit sa imi organizez repository-ul mai bine, voi mai incerca...
+
